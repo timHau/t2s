@@ -1,0 +1,4 @@
+spacy
+beautifulsoup4
+matplotlib
+en_core_web_sm
